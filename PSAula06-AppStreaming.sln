@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSAula06-AppStreaming", "PSAula06-AppStreaming.csproj", "{64F66954-4407-4F36-9F85-2BFE2337B5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F66954-4407-4F36-9F85-2BFE2337B5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F66954-4407-4F36-9F85-2BFE2337B5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F66954-4407-4F36-9F85-2BFE2337B5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F66954-4407-4F36-9F85-2BFE2337B5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7446AEE-6B97-477A-AC0D-2FAED72AF34F}
+	EndGlobalSection
+EndGlobal
